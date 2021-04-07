@@ -1,1 +1,1 @@
-var link = "https://btcs-era.online/Y7BZRz/";
+var link = "https://btcs-era.site/sMKqJm/";
